@@ -1,0 +1,1 @@
+python train_poss.py -d your_dataset -ac config/arch/senet-2048p.yml -n your_logfilename -p your_pretrainedmodel

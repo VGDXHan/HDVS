@@ -1,0 +1,1 @@
+python evaluate_iou.py -d your_dataset -p your_predictions_path
